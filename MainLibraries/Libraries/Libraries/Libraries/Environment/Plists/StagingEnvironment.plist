@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EnvironmentType</key>
+	<string>Staging</string>
+	<key>BaseURL</key>
+	<string></string>
+	<key>VersionURL</key>
+	<string></string>
+	<key>UsingStubs</key>
+	<false/>
+	<key>delayedStub</key>
+	<integer>0</integer>
+	<key>Authorization</key>
+	<dict>
+		<key>IDM</key>
+		<string>https://is.remote.education.gov.il/nidp/oauth/nam/</string>
+		<key>ClientID</key>
+		<string>70f8976a-7482-4c00-9245-3158c95bb21f</string>
+		<key>RedirectURI</key>
+		<string>https://tlmapp.education.gov.il/callback</string>
+		<key>HeaderName</key>
+		<string>Authorization</string>
+		<key>HeaderPrefix</key>
+		<string>Bearer </string>
+		<key>ClientSecret</key>
+		<string>LWw55IVgtQzsdLU9Ji_fMrTbIIeQPRbp4XsYm1t1ZfFPWdriqfgV4M9EpjiUm8Je1n-tn567QgZVIfdO4G0jBQ</string>
+	</dict>
+</dict>
+</plist>

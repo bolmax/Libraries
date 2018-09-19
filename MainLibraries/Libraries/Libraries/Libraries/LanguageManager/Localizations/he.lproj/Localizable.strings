@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+ MOETeachers
+ 
+ Created by Tsahi Deri on 19/08/2018.
+ Copyright © 2018 IdeoDigital. All rights reserved.
+*/
+
+// TabBar Items
+
+"FAQ" = "שירות ותמיכה";
+"Pedagogical" = "מרחב פדגוגי";
+"Admin" = "מרחב מנהלי \nופיתוח מקצועי";
+
+// Pedagogical
+
+"ShowMoreSubjects" = "לכל התכנים";
+"AddTopic" = "הוספת תחום דעת";

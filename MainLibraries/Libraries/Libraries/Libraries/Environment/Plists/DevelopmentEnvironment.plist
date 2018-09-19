@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EnvironmentType</key>
+	<string>Development</string>
+	<key>BaseURL</key>
+	<string></string>
+	<key>VersionURL</key>
+	<string></string>
+	<key>UsingStubs</key>
+	<true/>
+	<key>delayedStub</key>
+	<integer>1</integer>
+	<key>Authorization</key>
+	<dict>
+		<key>Issuer</key>
+		<string>http://web16qa.muwebqa.org</string>
+		<key>ClientID</key>
+		<string>client.android</string>
+		<key>RedirectURI</key>
+		<string>openid.meuhedet://oidccallback</string>
+		<key>HeaderName</key>
+		<string>X-EDU-USER-ID</string>
+		<key>HeaderPrefix</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>
